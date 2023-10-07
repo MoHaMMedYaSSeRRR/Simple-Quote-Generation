@@ -1,0 +1,16 @@
+h1{
+    font-size: 80px;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-family: 'Gabarito', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+.container button{
+    color: white;
+    background-color: blue;
+}
+
+.container button:hover{
+    background-color: green;
+}
